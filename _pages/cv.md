@@ -13,5 +13,5 @@ Education
 ======
 * B.S. in Economics and Mathematics, Wuhan University, 2016
 * M.A. in Mathematics of Finance, Columbia University, 2017
-* Ph.D in Statistics, University of Toronto, 2022 (expected)
+* Ph.D in Statistics, University of Toronto, 2023 (expected)
 
