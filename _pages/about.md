@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in statistics at University of Toronto. 
+I am a third-year PhD student in statistics at University of Toronto. 
 
